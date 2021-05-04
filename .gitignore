@@ -34,3 +34,5 @@ hs_err_pid*
 /MDBLab/build/
 /MDBLab/MDBLab-ejb/dist/
 /MDBLab/MDBLab-war/dist/
+/Complaints/target/
+/ComplaintsClient/target/
