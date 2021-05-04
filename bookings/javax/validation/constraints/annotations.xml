@@ -1,8 +1,0 @@
-<root>
-    <item name='javax.validation.constraints.Min long value()'>
-        <annotation name='org.jetbrains.annotations.Range'>
-            <val name="from" val="1"/>
-            <val name="to" val="java.lang.Long.MAX_VALUE"/>
-        </annotation>
-    </item>
-</root>
